@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL's `PERFORM VARYING` loop. The example program intends to calculate the sum of numbers from 1 to 10.  However, due to an improper termination condition, it might produce an incorrect result. The solution showcases how to correct the loop condition to achieve the desired outcome.
